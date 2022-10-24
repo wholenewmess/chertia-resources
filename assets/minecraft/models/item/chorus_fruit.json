@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/chorus_fruit"},"overrides":[{"predicate":{"custom_model_data":2220000},"model":"vane_trifles:item/homefruit"},{"predicate":{"custom_model_data":2220001},"model":"vane_trifles:item/gravefruit"},{"predicate":{"custom_model_data":2220002},"model":"vane_trifles:item/wayfruit"}]}
